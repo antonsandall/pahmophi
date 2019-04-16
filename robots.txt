@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceicaduep.flaxandteal.co.uk/sitemap.xml
